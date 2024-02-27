@@ -1,0 +1,7 @@
+{
+  "name": "@utils/try-catch",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./tryCatch.ts"
+  }
+}
